@@ -1,15 +1,15 @@
-📊 SQL Business Analysis
+SQL Business Analysis
 
-📌 Project Overview
+Project Overview
 
 This project uses SQL to analyze an e-commerce sales dataset and answer business-related questions. The objective was to extract meaningful insights using SQL queries and understand customer behavior, sales performance, and product trends.
 
-🛠️ Tools Used
+Tools Used
 
 - MySQL Workbench
 - SQL
 
-📈 Analysis Performed
+Analysis Performed
 
 The project includes SQL queries for:
 
@@ -27,12 +27,12 @@ The project includes SQL queries for:
 
 A total of 30 business-oriented SQL queries were written to analyze the dataset.
 
-📂 Files Included
+Files Included
 
 - SQL Queries (.sql)
 - Dataset (.xlsx)
 
-🎯 Skills Demonstrated
+Skills Demonstrated
 
 - SQL
 - Aggregate Functions
